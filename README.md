@@ -3,7 +3,6 @@
 ### Backend Developer
 
 - 🖥️ I'm currently working on **Backend development with Python-Django**.
-- 🌱 I'm currently learning **Node.js** and after that, I aim to learn **React, Vue, and FastAPI**.
 - 🌟 I have been working on backend development for 3 years, and for half of this time, I have also been working with **JavaScript**. During this period, I plan to expand my skills with **FastAPI** and other technologies such as **Express**, **MongoDB**, and **React*.
 
 ---
