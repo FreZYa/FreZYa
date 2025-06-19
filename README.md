@@ -20,6 +20,7 @@ I have experience working with **AI models** and their integration into systems.
 
 - Currently, I am learning **FastAPI**.
 - Technologies I plan to learn in the future:
+  - ⚡ **FastAPI**
   - 🌐 **React**
   - 🌐 **Vue**
   - ⚡ **Flask**
